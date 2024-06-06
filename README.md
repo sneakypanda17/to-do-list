@@ -43,7 +43,7 @@ Make sure you have the following installed:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/todo-app.git
+    git clone https://github.com/sneakypanda17/to-do-app.git
     cd todo-app
     ```
 
@@ -89,7 +89,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Thanks to the React documentation and the community for their support and resources.
-
----
-
-Feel free to customize this README further to better match your project and style preferences.
